@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Authors>FUJITSU SOCIAL SCIENCE LABORATORY LIMITED</Authors>
+    <Company>FUJITSU SOCIAL SCIENCE LABORATORY LIMITEDFUJITSU SOCIAL SCIENCE LABORATORY LIMITED</Company>
+    <Version>0.1.0</Version>
+    <Copyright>COPYRIGHT(C) 2020 FUJITSU SOCIAL SCIENCE LABORATORY LIMITED</Copyright>
+    <PackageProjectUrl>https://www.fujitsu.com/jp/group/ssl/products/livetalk/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/FujitsuSSL-LiveTalk/LiveTalkSubRipConverter</RepositoryUrl>
+    <ApplicationIcon>PropertyIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ReactiveProperty" Version="7.2.0" />
+  </ItemGroup>
+
+</Project>

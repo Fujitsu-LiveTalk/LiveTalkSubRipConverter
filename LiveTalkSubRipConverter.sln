@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveTalkSubRipConverter", "LiveTalkSubRipConverter\LiveTalkSubRipConverter.csproj", "{224E681E-DFB6-458D-BAEF-178224204CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{224E681E-DFB6-458D-BAEF-178224204CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224E681E-DFB6-458D-BAEF-178224204CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224E681E-DFB6-458D-BAEF-178224204CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224E681E-DFB6-458D-BAEF-178224204CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8D4CDD0-4438-46D5-934A-B3856F244611}
+	EndGlobalSection
+EndGlobal
