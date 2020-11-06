@@ -2,7 +2,6 @@
 LiveTalkから出力したCSVファイルをYouTubeの字幕テキストとしてアプロードできるSubRipフォーマットに変換するサンプルコードです。
 本サンプルコードは、.NET Core 3.0で作成しています。コードレベルでは.NET Framework 4.6と互換性があります。
 
-
 ![Process](https://github.com/FujitsuSSL-LiveTalk/LiveTalkSubRipConverter/blob/images/README.png)
 
 # サンプルコードの動き
@@ -22,6 +21,7 @@ LiveTalkから出力したCSVファイルをYouTubeの字幕テキストとし�
 1. 作成したSubRip形式の先頭には開始時間を記録した「良いです」と書かれた行があるので、そこを動画タイトルなどに変更します。
 2. YouTubeにアップロードするときはYouTube Studioの説明などを参照して、アップロードしてください。
 
+![Process](https://github.com/FujitsuSSL-LiveTalk/LiveTalkSubRipConverter/blob/images/README2.png)
 
 # 連絡事項
 本ソースコードは、LiveTalkの保守サポート範囲に含まれません。  
